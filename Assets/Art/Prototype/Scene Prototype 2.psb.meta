@@ -2,22 +2,22 @@ fileFormatVersion: 2
 guid: 501870c8888474244b9ae2be64077d2d
 ScriptedImporter:
   fileIDToRecycleName:
-    100000: Layer 001      _GO/Layer 001      _GO
-    100002: 'Layer 001      _GO/Layer 001      _GO/Layer 001      '
-    100004: 'Layer 001      _GO/Layer 001      _GO/Layer 002      '
-    100006: 'Layer 001      _GO/Layer 001      _GO/Layer 003      '
-    400000: Layer 001      _GO/Layer 001      _GO/Transform
-    400002: Layer 001      _GO/Layer 001      _GO/Layer 001      /Transform
-    400004: Layer 001      _GO/Layer 001      _GO/Layer 002      /Transform
-    400006: Layer 001      _GO/Layer 001      _GO/Layer 003      /Transform
+    100004: Layer 002      _GO/Layer 002      _GO
+    100008: 'Layer 002      _GO/Layer 002      _GO/Layer 001      '
+    100010: 'Layer 002      _GO/Layer 002      _GO/Layer 002      '
+    100012: 'Layer 002      _GO/Layer 002      _GO/Layer 003      '
+    400004: Layer 002      _GO/Layer 002      _GO/Transform
+    400008: Layer 002      _GO/Layer 002      _GO/Layer 001      /Transform
+    400010: Layer 002      _GO/Layer 002      _GO/Layer 002      /Transform
+    400012: Layer 002      _GO/Layer 002      _GO/Layer 003      /Transform
     2800000: Scene Prototype 2
-    21200000: Layer 001      _GO/Layer 001      _GO/Layer 001      /SpriteRenderer
-    21200002: Layer 001      _GO/Layer 001      _GO/Layer 002      /SpriteRenderer
-    21200004: Layer 001      _GO/Layer 001      _GO/Layer 003      /SpriteRenderer
+    21200002: Layer 002      _GO/Layer 002      _GO/Layer 001      /SpriteRenderer
+    21200006: Layer 002      _GO/Layer 002      _GO/Layer 002      /SpriteRenderer
+    21200008: Layer 002      _GO/Layer 002      _GO/Layer 003      /SpriteRenderer
     21300000: 'Layer 003      '
     21300002: 'Layer 002      '
     21300004: 'Layer 001      '
-    100100000: Layer 001      _GO
+    100100002: Layer 002      _GO
   externalObjects: {}
   userData: 
   assetBundleName: 
@@ -121,27 +121,6 @@ ScriptedImporter:
     tessellationDetail: 0
     parentGroupIndex: -1
     uvTransform: {x: -241, y: 939}
-  - name: 'Layer 002      '
-    originalName: 
-    pivot: {x: 0.5, y: 0.5}
-    alignment: 0
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 4
-      y: 1752
-      width: 600
-      height: 476
-    spriteID: 009682fbc5183c046bb92c53a0c88a37
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: -1099, y: 1752}
   - name: 'Layer 001      '
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -163,6 +142,27 @@ ScriptedImporter:
     tessellationDetail: 0
     parentGroupIndex: -1
     uvTransform: {x: 4, y: 4}
+  - name: 'Layer 002      '
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1752
+      width: 1227
+      height: 923
+    spriteID: 084d29f92cc21be4696ebb056f59f8d0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -472, y: 1752}
   platformSettings: []
   mosaicLayers: 1
   documentPivot: {x: 0, y: 0}
@@ -189,7 +189,7 @@ ScriptedImporter:
     spriteName: 'Layer 002      '
     isGroup: 0
     parentIndex: -1
-    spriteID: 009682fbc5183c046bb92c53a0c88a37
+    spriteID: 084d29f92cc21be4696ebb056f59f8d0
     layerID: 3
     mosaicPosition: {x: 4, y: 1752}
   - name: 'Layer 001      '
