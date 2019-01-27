@@ -2,26 +2,22 @@ fileFormatVersion: 2
 guid: d40b8207950a6a046b0821f94578d761
 ScriptedImporter:
   fileIDToRecycleName:
-    100000: Layer 1_GO/Layer 1_GO
-    100002: Layer 1_GO/Layer 1_GO/Layer 1
-    100004: 'Layer 1_GO/Layer 1_GO/Layer 001      '
-    100006: 'Layer 1_GO/Layer 1_GO/Layer 002      '
-    100008: 'Layer 1_GO/Layer 1_GO/Layer 003      '
-    400000: Layer 1_GO/Layer 1_GO/Transform
-    400002: Layer 1_GO/Layer 1_GO/Layer 1/Transform
-    400004: Layer 1_GO/Layer 1_GO/Layer 001      /Transform
-    400006: Layer 1_GO/Layer 1_GO/Layer 002      /Transform
-    400008: Layer 1_GO/Layer 1_GO/Layer 003      /Transform
+    100000: Layer 001      _GO/Layer 001      _GO
+    100002: 'Layer 001      _GO/Layer 001      _GO/Layer 001      '
+    100004: 'Layer 001      _GO/Layer 001      _GO/Layer 002      '
+    100006: 'Layer 001      _GO/Layer 001      _GO/Layer 003      '
+    400000: Layer 001      _GO/Layer 001      _GO/Transform
+    400002: Layer 001      _GO/Layer 001      _GO/Layer 001      /Transform
+    400004: Layer 001      _GO/Layer 001      _GO/Layer 002      /Transform
+    400006: Layer 001      _GO/Layer 001      _GO/Layer 003      /Transform
     2800000: Scene Prototype 1
-    21200000: Layer 1_GO/Layer 1_GO/Layer 1/SpriteRenderer
-    21200002: Layer 1_GO/Layer 1_GO/Layer 001      /SpriteRenderer
-    21200004: Layer 1_GO/Layer 1_GO/Layer 002      /SpriteRenderer
-    21200006: Layer 1_GO/Layer 1_GO/Layer 003      /SpriteRenderer
+    21200000: Layer 001      _GO/Layer 001      _GO/Layer 001      /SpriteRenderer
+    21200002: Layer 001      _GO/Layer 001      _GO/Layer 002      /SpriteRenderer
+    21200004: Layer 001      _GO/Layer 001      _GO/Layer 003      /SpriteRenderer
     21300000: 'Layer 003      '
     21300002: 'Layer 002      '
     21300004: 'Layer 001      '
-    21300006: Layer 1
-    100100000: Layer 1_GO
+    100100000: Layer 001      _GO
   externalObjects: {}
   userData: 
   assetBundleName: 
@@ -112,7 +108,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 4
-      y: 1861
+      y: 1002
       width: 1600
       height: 755
     spriteID: 840184c79b37c204a94420d2fb0677e9
@@ -124,7 +120,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -46, y: 1861}
+    uvTransform: {x: -241, y: 940}
   - name: 'Layer 002      '
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -133,7 +129,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 4
-      y: 2624
+      y: 1753
       width: 1872
       height: 520
     spriteID: a4722aaa919942a418d39a09e0f0fae4
@@ -145,29 +141,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -44, y: 2536}
+    uvTransform: {x: -1099, y: 1753}
   - name: 'Layer 001      '
-    originalName: 
-    pivot: {x: 0.5, y: 0.5}
-    alignment: 0
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 4
-      y: 1002
-      width: 1920
-      height: 851
-    spriteID: 60b6f9248727aad47b833c0c4c9e597d
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 4, y: 863}
-  - name: Layer 1
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -177,8 +152,8 @@ ScriptedImporter:
       x: 4
       y: 4
       width: 1920
-      height: 990
-    spriteID: 85dda65aadf2a6f4d9da8591f0dc03c0
+      height: 851
+    spriteID: 60b6f9248727aad47b833c0c4c9e597d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -209,27 +184,20 @@ ScriptedImporter:
     parentIndex: -1
     spriteID: 840184c79b37c204a94420d2fb0677e9
     layerID: 4
-    mosaicPosition: {x: 4, y: 1861}
+    mosaicPosition: {x: 4, y: 1002}
   - name: 'Layer 002      '
     spriteName: 'Layer 002      '
     isGroup: 0
     parentIndex: -1
     spriteID: a4722aaa919942a418d39a09e0f0fae4
     layerID: 3
-    mosaicPosition: {x: 4, y: 2624}
+    mosaicPosition: {x: 4, y: 1753}
   - name: 'Layer 001      '
     spriteName: 'Layer 001      '
     isGroup: 0
     parentIndex: -1
     spriteID: 60b6f9248727aad47b833c0c4c9e597d
     layerID: 2
-    mosaicPosition: {x: 4, y: 1002}
-  - name: Layer 1
-    spriteName: Layer 1
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 85dda65aadf2a6f4d9da8591f0dc03c0
-    layerID: 5
     mosaicPosition: {x: 4, y: 4}
   characterData:
     bones: []
