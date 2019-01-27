@@ -723,7 +723,7 @@ MonoBehaviour:
   _dogPrefab: {fileID: 833226722, guid: 9a2456df20826ea4194ca35b98149588, type: 3}
   _catPrefab: {fileID: 2893958716089361373, guid: 6739a8738ace869458df15675106bbf1,
     type: 3}
-  _nextScene: MainRoom
+  _nextScene: TitleScreen
 --- !u!1 &672444148
 GameObject:
   m_ObjectHideFlags: 0

@@ -641,7 +641,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8246f01af620c0c43b2b4927ce25b8f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _scene: CharacterSelection
+  _scene: MainRoom
 --- !u!1 &1165151971
 GameObject:
   m_ObjectHideFlags: 0
