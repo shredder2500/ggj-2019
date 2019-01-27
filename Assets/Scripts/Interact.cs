@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.Events;
 
+[RequireComponent(typeof(CursorChange))]
 public class Interact : MonoBehaviour
 {
     [SerializeField]
